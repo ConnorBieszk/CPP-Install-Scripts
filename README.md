@@ -17,4 +17,4 @@ Powershell
 Git
 
 # Credits
-@ConnorBieszk - Writing the scripts
+@ply-alt/@pylua-dot-code - Writing the scripts
