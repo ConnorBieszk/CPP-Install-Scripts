@@ -2,10 +2,19 @@
 # C++-Install-Scripts
 A collection of scripts meant for installing C++ build tools and setup a basic environment. 
 
-## Requirements
-Bash 
+# Requirements
+
+## Linux
+
+Bash
 
 Git
 
-## Credits
+## Windows
+
+Powershell
+
+Git
+
+# Credits
 @ConnorBieszk - Writing the scripts
